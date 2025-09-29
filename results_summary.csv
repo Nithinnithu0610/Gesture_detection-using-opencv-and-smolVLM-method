@@ -1,3 +1,0 @@
-module,samples,cpu_mean,mem_mean_mb,fps_mean
-opencv,190,28.65,6190.46,12.23
-smolvlm,126,25.92,6139.46,14.32
