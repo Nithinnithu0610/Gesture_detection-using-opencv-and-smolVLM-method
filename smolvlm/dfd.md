@@ -2,23 +2,31 @@
 
 ```mermaid
 flowchart TD
-    Camera -->|Captures Frame| Preprocess[Frame Preprocessing]
-    Camera -->|Captures Frame| SmolVLM[SmolVLM Gesture Detection Module]
+    %% Capture
+    Camera -->|Captures Frame| Preprocess[Preprocessing Module]
 
-    Preprocess -->|Cleaned Frame| SmolVLM
+    %% Preprocessing & Prompt
+    Preprocess -->|Optionally detect hands| Keypoint[Hand / ROI Detection]
+    Keypoint -->|Build multimodal input| PromptBuilder[Prompt Builder]
 
-    SmolVLM --> GestureType[Gesture Classification]
-    SmolVLM --> HandSide[Hand Side Detection]
-    SmolVLM --> FingerCount[Finger Counting]
+    %% SmolVLM Inference
+    PromptBuilder -->|Send images + text| SmolVLM[SmolVLM Model]
+    SmolVLM -->|Predict gesture| Postprocess[Post-processing / Gesture Mapping]
 
-    GestureType --> GestureProcessor[Gesture Processor]
-    HandSide --> GestureProcessor
-    FingerCount --> GestureProcessor
+    %% Output & Logging
+    Postprocess -->|Display action| UI[UI / Overlay / API]
+    Postprocess -->|Log detected gesture| GestureLogger[Logger]
 
-    GestureProcessor -->|Logs output| GestureLogFile[(gesture_outputs.log)]
-    GestureProcessor -->|Saves Frame| Frames[(DetectedFrames/)]
+    %% Storage
+    GestureLogger --> GestureLogFile[(gesture.log)]
+    Preprocess -->|Save samples| GestureDB[(Gesture Dataset / Frames)]
+    SmolVLM -->|Log performance| PerfLog[(performance.log)]
 
-    Frames --> Developer[Developer/Analyst]
-    GestureLogFile --> Developer[Developer/Analyst]
+    %% Stakeholders
+    UI --> EndUser[End User / Application]
+    GestureLogFile --> Developer[Developer / Maintainer]
+    PerfLog --> Developer
+    GestureDB --> Trainer[Model Trainer / Dataset Curator]
+
 
 ```
