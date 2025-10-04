@@ -6,62 +6,71 @@ graph TD
     %% Hardware
     subgraph Hardware
         Camera["📷 Camera
-        Input: People showing hands/gestures
+        Input: People performing gestures
         Output: Live video frames"]
 
-        Computer["💻 Computer
+        Computer["💻 Computer / Edge Device
         Input: Video frames
-        Output: Sends frames to software modules"]
+        Output: Sends to Software"]
     end
 
     %% Software
     subgraph Software
-        OpenCV["🖼️ OpenCV / MediaPipe
+        Preprocess["🖼️ Preprocessing (OpenCV)
         Input: Video frames
-        Task: Detect hands and landmarks
-        Output: Bounding boxes & landmarks"]
+        Task: Resize, normalize, crop hand region
+        Output: Cleaned frames"]
 
-        HandRecognition["✋ Hand Recognition
-        Input: Hand bounding boxes & landmarks
-        Task: Identify hand side (Left/Right), finger count
-        Output: Hand data"]
+        Keypoint["✋ Optional Keypoint Detector
+        Input: Preprocessed frames
+        Task: Detect hands / ROI
+        Output: Keypoints / cropped hand"]
 
-        GestureRecognition["👍/👎 Gesture Recognition
-        Input: Hand data
-        Task: Recognize gestures (Thumbs Up / Thumbs Down / Other)
-        Output: Gesture type"]
+        PromptBuilder["📝 Prompt Builder
+        Input: Frame(s) + Text template
+        Task: Insert <image> tokens & text
+        Output: Multimodal prompt"]
 
-        AttendanceManager["📒 Attendance Manager
-        Input: Gesture type + person info
-        Task: Mark attendance using gestures
-        Output: Attendance record"]
+        SmolVLM["🤖 SmolVLM Model
+        Input: Prompt + Image tokens
+        Task: Multimodal inference for gestures
+        Output: Predicted gesture text"]
+
+        Postprocess["🔄 Post-processing
+        Input: Model output
+        Task: Map to gesture labels, smooth results
+        Output: Final gesture decision"]
+
+        UI["🖥️ UI / API
+        Input: Gesture decision
+        Task: Show overlay or send action
+        Output: Display or external command"]
 
         Logger["📝 Logger
         Input: System events & performance
-        Task: Record errors, steps, CPU & memory usage
+        Task: Record CPU/GPU usage, detected gestures
         Output: Log messages + performance details"]
     end
 
     %% Storage
     subgraph Storage
-        GestureDB["🗂️ Gesture Database
-        Stored: Reference gestures and mappings"]
+        GestureDB["🗂️ Gesture Dataset
+        Stored: Sample frames or gestures"]
 
-        CSV["📂 Attendance.csv
-        Stored: Name, ID, Date, Time, Status"]
-
-        LogFile["📄 performance.log
-        Stored: Events, Errors, CPU & Memory usage, Processing time"]
+        LogFile["📄 gesture_performance.log
+        Stored: Events, CPU/GPU usage, latency"]
     end
 
     %% Connections
     Camera --> Computer
-    Computer --> OpenCV
-    OpenCV --> HandRecognition
-    HandRecognition --> GestureRecognition
-    GestureRecognition --> AttendanceManager
-    HandRecognition -->|Compare with| GestureDB
-    AttendanceManager --> CSV
-    AttendanceManager --> Logger
+    Computer --> Preprocess
+    Preprocess --> Keypoint
+    Keypoint --> PromptBuilder
+    PromptBuilder --> SmolVLM
+    SmolVLM --> Postprocess
+    Postprocess --> UI
+    Postprocess --> Logger
     Logger --> LogFile
+    UI --> GestureDB
+
 ```
