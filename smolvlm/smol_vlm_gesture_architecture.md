@@ -12,48 +12,65 @@ The system captures live camera frames, preprocesses them, optionally extracts h
 
 ## 2. Architecture Diagram (Mermaid)
 
-```mermaid
-flowchart TD
-  Camera[Camera / Video Capture]
-  Preproc[Preprocessing
-  (resize, normalize,
-  color conversion)]
-  FrameBuf[Frame Buffer / Queue]
-  Keypoint[Optional: Hand/Pose
-  Keypoint Extraction]
-  ImageTokens[Image Encoding
-  & Tokenization]
-  PromptPrep[Prompt Builder
-  (text + <image> tokens)]
-  SmolVLM[SmolVLM Inference
-  (multimodal model)]
-  Postproc[Post-processing
-  (confidence, smoothing)]
-  GestureMap[Gesture Mapping
-  & Decision Logic]
-  UI[UI / Overlay / API]
-  Logger[Logging & Metrics]
-  Storage[Storage
-  (frames, logs)]
-  Scheduler[Worker Pool / Scheduler]
-  ModelCache[Model Loader
-  & Cache]
-  HW[Hardware: CPU/GPU/NPU]
+graph TD
 
-  Camera --> Preproc --> FrameBuf
-  FrameBuf -->|worker threads| Keypoint
-  FrameBuf -->|worker threads| ImageTokens
-  Keypoint --> ImageTokens
-  ImageTokens --> PromptPrep
-  PromptPrep --> ModelCache --> SmolVLM
-  SmolVLM --> Postproc --> GestureMap --> UI
-  GestureMap --> Logger
-  UI --> Storage
-  Logger --> Storage
-  Scheduler --> FrameBuf
-  HW --> ModelCache
-  HW --> SmolVLM
-```
+    %% Hardware
+    subgraph Hardware
+        Camera["📷 Camera
+        Input: Person performs gestures
+        Output: Live video (frames)"]
+
+        Computer["💻 Computer
+        Input: Video frames
+        Output: Sends frames to Software"]
+    end
+
+    %% Software
+    subgraph Software
+        OpenCV["🖼️ OpenCV Preprocessing
+        Input: Video frames
+        Task: Frame resizing, normalization, ROI extraction
+        Output: Clean frames"]
+
+        SmolVLM["🤖 SmolVLM Gesture Detection Model
+        Input: Preprocessed frames
+        Task: Detect & classify gestures in real time
+        Output: Gesture label / confidence score"]
+
+        GestureProcessor["👐 Gesture Processor
+        Input: Gesture label + frame
+        Task: Map to actions, store frame & logs
+        Output: Event triggers + saved data"]
+
+        Logger["📝 Logger
+        Input: System events & performance + detected gestures
+        Task: Record errors, CPU & memory usage, inference time
+        Output: Log messages + performance details"]
+    end
+
+    %% Storage
+    subgraph Storage
+        GestureDB["🗂️ Gesture Definitions
+        Stored: List of known gesture templates"]
+
+        Frames["📂 DetectedFrames/
+        Stored: Captured frames of detected gestures"]
+
+        LogFile["📄 gesture_outputs.log
+        Stored: Detected gesture events,
+        CPU & Memory usage,
+        Processing time"]
+    end
+
+    %% Connections
+    Camera --> Computer
+    Computer --> OpenCV
+    OpenCV --> SmolVLM
+    SmolVLM -->|Compare with| GestureDB
+    SmolVLM --> GestureProcessor
+    GestureProcessor --> Frames
+    GestureProcessor --> Logger
+    Logger --> LogFile
 
 ---
 
@@ -119,14 +136,17 @@ flowchart TD
 
 ## 4. Data Flow (Sequence)
 
-1. Camera captures frame -> enqueue to Frame Buffer.
-2. Preprocessing worker dequeues frame -> resize & normalize.
-3. Optional keypoint worker analyzes frame; if no hands detected, skip inference.
-4. Image tokens are prepared and Prompt Builder composes multimodal prompt.
-5. Scheduler assigns the prompt to a SmolVLM worker (ModelCache ensures model is loaded).
-6. SmolVLM returns a textual/prediction output.
-7. Post-processing converts output into gesture + confidence; smoothing is applied.
-8. Gesture Mapping triggers UI update, logs event, and optionally stores the frame.
+flowchart TD
+    Camera[Camera] -->|Captures Frame| Preprocess[Frame Preprocessing]
+    Preprocess -->|Pass Clean Frame| SmolVLM[SmolVLM Model Inference]
+    SmolVLM -->|Recognized Gesture| GestureHandler[Gesture Processing & Mapping]
+    GestureHandler -->|Log Detected Gesture| GestureLog[(gesture_outputs.log)]
+    GestureHandler -->|Save Frame of Gesture| FrameStorage[(DetectedFrames/)]
+    GestureHandler -->|Send Gesture Event| AppLayer[Real-Time Application Layer]
+    AppLayer -->|Display / Action| User[User Interface]
+    GestureLog --> Developer[Developer/Analyst]
+    FrameStorage --> Developer
+
 
 ---
 
