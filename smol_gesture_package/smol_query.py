@@ -2,9 +2,13 @@ import base64
 import requests
 import cv2
 
-
 class SmolVLMQuery:
-    def __init__(self, endpoint="http://localhost:5000/v1"):
+    def __init__(self, endpoint=None):
+        """
+        endpoint: your hosted SmolVLM API, e.g.,
+        "https://your-hosted-smolvlm-api.com/v1"
+        If None, SmolVLM queries are skipped.
+        """
         self.endpoint = endpoint
 
     def encode_image(self, image):
@@ -12,6 +16,9 @@ class SmolVLMQuery:
         return base64.b64encode(buffer).decode("utf-8")
 
     def query_batch(self, crops, prompt):
+        if not self.endpoint:
+            return ["Unknown"] * len(crops)
+
         results = []
         for img in crops:
             try:
@@ -33,17 +40,13 @@ class SmolVLMQuery:
                 r.raise_for_status()
                 text = r.json()["choices"][0]["message"]["content"].strip()
 
-                # Clean result
                 valid = ["Thumbs Up", "Thumbs Down",
                          "1 Finger", "2 Fingers", "3 Fingers",
                          "4 Fingers", "5 Fingers", "Unknown"]
 
-                # Find best match
                 match = next((v for v in valid if v.lower() in text.lower()), "Unknown")
                 results.append(match)
-
             except Exception as e:
                 print("SmolVLM error:", e)
                 results.append("Unknown")
-
         return results
