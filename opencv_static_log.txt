@@ -1,0 +1,4550 @@
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 17.5%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 14.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 14.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 5.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 14.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 6.7%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 26.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 8.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 18.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 25.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 24.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 8.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 11.8%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 15.4%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 19.2%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 13.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 13.5%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 24.0%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 16.2%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:14
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 27.0%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 17.0%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 23.5%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 21.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 32.4%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 36.2%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 24.0%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 33.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 27.0%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.9%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 9.5%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.3%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.7%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 22.2%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 4.4%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.7%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 8.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 19.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 11.1%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 20.5%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 21.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 8.6%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:15
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 22.7%
+Memory Usage: 7205 MB
+Frames Processed Per Second: 22.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.2%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 22.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 14.7%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 22.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.3%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 8.7%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.9%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 11.5%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 22.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 5.3%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 10.4%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 21.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 9.6%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 29.4%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 20.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 10.4%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 20.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 25.9%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 19.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.5%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 19.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 12.0%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 18.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 14.9%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 18.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 12.5%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 18.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:16
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 29.4%
+Memory Usage: 7204 MB
+Frames Processed Per Second: 17.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 12.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 17.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 19.6%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 17.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 23.1%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 17.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 22.9%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 16.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 17.5%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 16.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 28.1%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 16.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 11.7%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 16.7%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 17.6%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 21.2%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 6.2%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 100.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 9.3%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 21.7%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 23.3%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 0
+Gesture Detected: Fist
+CPU Usage: 18.9%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:17
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 0
+Gesture Detected: Fist
+CPU Usage: 12.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7203 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 0
+Gesture Detected: Fist
+CPU Usage: 18.8%
+Memory Usage: 7202 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7202 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 8.3%
+Memory Usage: 7202 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 20.0%
+Memory Usage: 7202 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 0
+Gesture Detected: Fist
+CPU Usage: 10.0%
+Memory Usage: 7202 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7202 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 0
+Gesture Detected: Fist
+CPU Usage: 9.4%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 8.5%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 8.2%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 7.4%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 27.5%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 8.7%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 12.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 16.7%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 7.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 20.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 14.8%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7201 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.3%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:18
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 10.2%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 16.7%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 22.2%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 19.1%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.7%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 10.2%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 25.5%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 18.4%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 25.5%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 27.1%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 14.9%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 15.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.6%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 16.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 16.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 21.4%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 17.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 17.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.1%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 18.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 18.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.1%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 19.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 19.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 25.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 20.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 20.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 20.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 20.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 24.3%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 20.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 20.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 20.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 20.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.6%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:19
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.3%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 21.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 21.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 5.1%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7210 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 6.5%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 6.2%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 14.3%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.1%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 22.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 3.7%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 23.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 23.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 16.7%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 10.7%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.4%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 19.4%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 16.7%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 29.2%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 23.7%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 7.7%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 10.3%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 25.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 25.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 13.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7208 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 12.5%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 10.8%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 12.5%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.1%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 26.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 26.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 15.4%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 26.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:20
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 0.0%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 26.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 8.0%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 0.0%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 9.4%
+Memory Usage: 7206 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 0.0%
+Memory Usage: 7207 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 9.4%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 6.7%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 17.4%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 14.6%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 0.0%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 4.2%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 26.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 16.3%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 25.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:41:21
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 7.7%
+Memory Usage: 7209 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 15.4%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 24.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 28.1%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 16.7%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 18.9%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 41.7%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 6.2%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 12.5%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 17.1%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 11.1%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 21.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:30
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 13.9%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 18.7%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 11.4%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 21.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 8.0%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 16.2%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 24.3%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 22.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 11.4%
+Memory Usage: 6795 MB
+Frames Processed Per Second: 22.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 5.4%
+Memory Usage: 6795 MB
+Frames Processed Per Second: 22.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 10.8%
+Memory Usage: 6795 MB
+Frames Processed Per Second: 22.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 18.9%
+Memory Usage: 6795 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 16.7%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 28.0%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 21.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 25.0%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 20.8%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 23.5%
+Memory Usage: 6794 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 16.3%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 17.9%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 17.1%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 20.9%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 15.0%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.9%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:31
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 18.4%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 18.9%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 24.3%
+Memory Usage: 6797 MB
+Frames Processed Per Second: 21.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.9%
+Memory Usage: 6796 MB
+Frames Processed Per Second: 21.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 22.2%
+Memory Usage: 6796 MB
+Frames Processed Per Second: 20.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 28.9%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 20.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 17.2%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 20.0%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 21.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.5%
+Memory Usage: 6793 MB
+Frames Processed Per Second: 21.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 16.0%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 21.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 23.1%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 21.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 12.5%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 21.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 18.9%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 23.7%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 23.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 13.9%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 29.4%
+Memory Usage: 6792 MB
+Frames Processed Per Second: 22.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 40.0%
+Memory Usage: 6791 MB
+Frames Processed Per Second: 23.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 21.3%
+Memory Usage: 6791 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 40.5%
+Memory Usage: 6791 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 40.8%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 22.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:32
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 43.2%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 32.0%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 21.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 22.2%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 22.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 22.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 27.8%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6790 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 19.4%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 22.2%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 15.2%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 33.3%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 27.1%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6798 MB
+Frames Processed Per Second: 21.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 25.0%
+Memory Usage: 6784 MB
+Frames Processed Per Second: 23.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6784 MB
+Frames Processed Per Second: 23.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 39.5%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 54.1%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 33.3%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 20.8%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 22.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 33.3%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 22.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 17.2%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 22.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6783 MB
+Frames Processed Per Second: 22.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 30.6%
+Memory Usage: 6782 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6782 MB
+Frames Processed Per Second: 22.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 32.7%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 22.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 22.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 28.6%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 33.3%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 47.2%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 4
+Gesture Detected: Four_Fingers
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 15.2%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 3
+Gesture Detected: Three_Fingers
+CPU Usage: 14.8%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 17.1%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 23.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 23.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 18.2%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 23.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 23.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 13.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:33
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 8.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 2.8%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 33.3%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 6.2%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 29.2%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.4%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 52.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 18.4%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.3%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.3%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 5.9%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 30.8%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.1%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 12.1%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 20.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 22.2%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 16.7%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 19.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 25.9%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 25.5%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 35.1%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 22.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:34
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 22.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 24.3%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 23.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 23.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 21.6%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 22.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 22.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 19.4%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 66.7%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 22.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 19.4%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 22.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 12.2%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 21.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 30.4%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 16.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 24.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 24.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 15.2%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 17.1%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 23.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 16.7%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 36.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 24.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6781 MB
+Frames Processed Per Second: 24.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 40.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.7%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 100.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.1%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 24.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 21.1%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 23.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 15.4%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 15.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.1%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 25.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.3%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 24.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 24.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 24.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 17.4%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 25.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 28.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 25.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 25.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 20.8%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 25.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 25.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 30.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:35
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.1%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 14.3%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 12.5%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 25.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 25.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 7.7%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 26.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 12.5%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 16.7%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 11.1%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 27.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 27.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 13.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 27.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6780 MB
+Frames Processed Per Second: 27.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 24.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.1%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.3%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 9.7%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.3
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.7%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6777 MB
+Frames Processed Per Second: 27.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 8.7%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 5.7%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 25.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 25.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 7.4%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 16.1%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 26.9
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 16.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.1
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 21.7%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.2
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 4.2%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 29.2%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 5.4%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 10.5%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 27.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 2
+Gesture Detected: Two_Fingers
+CPU Usage: 7.1%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 28.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 28.4
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Left
+Finger Count: 5
+Gesture Detected: Open_Hand
+CPU Usage: 25.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 28.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 0.0%
+Memory Usage: 6776 MB
+Frames Processed Per Second: 28.5
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 33.3%
+Memory Usage: 6775 MB
+Frames Processed Per Second: 28.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:36
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 14.3%
+Memory Usage: 6775 MB
+Frames Processed Per Second: 28.7
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:37
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 5.3%
+Memory Usage: 6775 MB
+Frames Processed Per Second: 27.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:37
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 12.5%
+Memory Usage: 6775 MB
+Frames Processed Per Second: 27.8
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:37
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 2.8%
+Memory Usage: 6775 MB
+Frames Processed Per Second: 27.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:37
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Down
+CPU Usage: 10.9%
+Memory Usage: 6775 MB
+Frames Processed Per Second: 26.0
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:37
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: One_Finger
+CPU Usage: 10.5%
+Memory Usage: 6778 MB
+Frames Processed Per Second: 25.6
+--------------------------------------------------
+--------------------------------------------------
+Timestamp: 2025-10-28 12:50:37
+Hand Presence: Yes
+Hand Side: Right
+Finger Count: 1
+Gesture Detected: Thumbs_Up
+CPU Usage: 5.6%
+Memory Usage: 6779 MB
+Frames Processed Per Second: 25.0
+--------------------------------------------------

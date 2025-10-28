@@ -1,0 +1,16 @@
+{
+  "approach": "static",
+  "static_approach": 3,
+  "cfg_metrics": {
+    "fps_target": 5,
+    "latency_limit_ms": 250
+  },
+  "methodology_switch": "fixed-time",
+  "switch_time_sec": 60,
+  "endpoint": "https://api-inference.huggingface.co/models/llava-hf/llava-1.5-7b-hf",
+  "api_key": "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",
+  "use_webcam": true,
+  "dynamic": {
+    "max_latency_sec": 1.5
+  }
+}
